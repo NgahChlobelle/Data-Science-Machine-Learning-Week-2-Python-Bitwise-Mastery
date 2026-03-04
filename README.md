@@ -19,7 +19,7 @@
 ### Logic Mapping:
 #### - Mapped the results of AND, OR, and XOR operations by comparing butsat each position.
 ### Shifting:
-#### - verified the 'Decimal Path' (multiplication/division by 2) against a 'Binary path' (moving bits left or right).
+#### - Verified the 'Decimal Path' (multiplication/division by 2) against a 'Binary path' (moving bits left or right).
 
 # COMMANDS EXECUTED
 ## 1. ARITHMETIC IN PYTHON (+, -, *, /, //, %, **)
@@ -64,5 +64,5 @@
 ## - Floor Division vs. Right Shift: A right shift x >> n is functionally identical to floor division x // (2**n).
 ## - Left Shift Efficiency: Shifting left x << n is a faster way to perform multiplication by powers of 2.
 ## - Bitwise Negation Formula: The ~x operator follows the formula -(x+1). For Example, ~10 results in ~11.
-## Binary Representation: Python uses 0b to denote binary strings (e.g., bin(10) returns '0b1010').
-## Data Integrity: Manual verification (Successive Division) is essential for debugginh complex bitwiselogic in data science and machine learning applications.
+## - Binary Representation: Python uses 0b to denote binary strings (e.g., bin(10) returns '0b1010').
+## - Data Integrity: Manual verification (Successive Division) is essential for debugginh complex bitwiselogic in data science and machine learning applications.
