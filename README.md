@@ -61,16 +61,17 @@
 # SCREENSHOTS OF RESULTS
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/5c03fc75ae5f7fe0f8d559341c2802809b54da38/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%201.PNG)
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/00b185589d8a024949b0d2600fbcb0e089193bdb/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%202.PNG)
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%203.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%204.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%205.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%206.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%207.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%208.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%209.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%2010.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%2011.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/91124c889adfa075810fb153c11d184c3ec60b6b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%2012.PNG)
+
 # KEY OBSERVATION / LESSONS LEARNED
 ## - Floor Division vs. Right Shift: A right shift x >> n is functionally identical to floor division x // (2**n).
 ## - Left Shift Efficiency: Shifting left x << n is a faster way to perform multiplication by powers of 2.
