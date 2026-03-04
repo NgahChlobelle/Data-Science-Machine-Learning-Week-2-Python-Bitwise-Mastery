@@ -60,7 +60,7 @@
 
 # SCREENSHOTS OF RESULTS
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/5c03fc75ae5f7fe0f8d559341c2802809b54da38/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%201.PNG)
-![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/d0c310bf868e2bd5cb111a8cb3fe61647ef4e065/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%2010.PNG)
+
 # KEY OBSERVATION / LESSONS LEARNED
 ## - Floor Division vs. Right Shift: A right shift x >> n is functionally identical to floor division x // (2**n).
 ## - Left Shift Efficiency: Shifting left x << n is a faster way to perform multiplication by powers of 2.
