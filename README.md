@@ -60,7 +60,7 @@
 
 # SCREENSHOTS OF RESULTS
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/5c03fc75ae5f7fe0f8d559341c2802809b54da38/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%201.PNG)
-![image alt]()
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/00b185589d8a024949b0d2600fbcb0e089193bdb/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%202.PNG)
 ![image alt]()
 ![image alt]()
 ![image alt]()
