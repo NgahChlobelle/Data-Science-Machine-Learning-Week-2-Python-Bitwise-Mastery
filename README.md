@@ -60,7 +60,17 @@
 
 # SCREENSHOTS OF RESULTS
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/5c03fc75ae5f7fe0f8d559341c2802809b54da38/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%201.PNG)
-![image alt] (https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/0193622b881c339eedf852e6e22abb371e5b1c1b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%202.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/0193622b881c339eedf852e6e22abb371e5b1c1b/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%202.PNG)
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning-Week-2-Python-Bitwise-Mastery/blob/1f9a83dcee60ef0f60ad6cf967791688eab5747f/Python%20Operators%20and%20Bitwise%20Logic%20Foundation%203.PNG)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 # KEY OBSERVATION / LESSONS LEARNED
 ## - Floor Division vs. Right Shift: A right shift x >> n is functionally identical to floor division x // (2**n).
 ## - Left Shift Efficiency: Shifting left x << n is a faster way to perform multiplication by powers of 2.
