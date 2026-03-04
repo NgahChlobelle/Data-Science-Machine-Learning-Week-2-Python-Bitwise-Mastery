@@ -1,4 +1,4 @@
-# PYTHON OPERATORS AND BITWISE LOGIC FOUNDATIONS
+# PYTHON OPERATORS AND BITWISE LOGIC OPERATORS
 
 # OBJECTIVES
 ## To master the fundamental Python operators including arithmetic, cmparison, logical, assignment and bitwise operators
